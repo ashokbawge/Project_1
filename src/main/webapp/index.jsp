@@ -253,17 +253,17 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner">
 							<div class="item active">
-								<img src="img/_MG_7919.jpg" alt="Chania" width="470" height="200">
+								<img src="img/_MG_7919.JPG" alt="Chania" width="470" height="200">
 							</div>
 
 							<div class="item">
-								<img src="img/_MG_7920.jpg" alt="Chania" width="470" height="200">
+								<img src="img/_MG_7920.JPG" alt="Chania" width="470" height="200">
 							</div>
 							<div class="item">
-								<img src="img/_MG_7921.jpg" alt="Chania" width="470" height="200">
+								<img src="img/_MG_7921.JPG" alt="Chania" width="470" height="200">
 							</div>
 							<div class="item">
-								<img src="img/_MG_7924.jpg" alt="Chania" width="470" height="200">
+								<img src="img/_MG_7924.JPG" alt="Chania" width="470" height="200">
 							</div>
 
 							<div class="item">

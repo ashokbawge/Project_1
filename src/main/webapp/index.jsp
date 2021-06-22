@@ -11,7 +11,7 @@
 
 <meta charset="UTF-8" />
 
-<title>Godutai</title>
+<title>SBR Bidar</title>
 
 <meta name="description" content="Eat Restaurant Bootstrap Template">
 

@@ -11,7 +11,7 @@
 
 <meta charset="UTF-8" />
 
-<title>SBR Bidar Karnataka</title>
+<title>Sharnbasva School</title>
 
 <meta name="description" content="Eat Restaurant Bootstrap Template">
 
